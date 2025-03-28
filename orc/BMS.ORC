@@ -1277,7 +1277,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, fiber, T20 to T70, 0.05" thick, PN CR2070-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">0.736</InsideDiameter>
-			<OutsideDiameter Unit="in">2.178</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.05</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1358,7 +1358,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, fiber, T50 to T52, 0.05" thick, PN CR5052H-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">0.980</InsideDiameter>
-			<OutsideDiameter Unit="in">1.114</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.14</OutsideDiameter>
 			<Length Unit="in">0.050</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1403,7 +1403,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T60, 0.125" thick, PN CR5060-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.593</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1430,7 +1430,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, fiber, T50 to T70, 0.05" thick, PN CR5070-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">2.178</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.05</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1439,7 +1439,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50H to T70, 0.125" thick, PN CR50H70-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.990</InsideDiameter>
-			<OutsideDiameter Unit="in">2.178</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1448,7 +1448,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T70, 0.125" thick, PN CR5070-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">2.178</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<!-- *** SOURCE ERROR: for CR50MF70-W, the BMS website description and the PN indicate lite-ply,
@@ -1462,7 +1462,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50MF to T70, 0.125" thick, PN CR50MF70-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">1.000</InsideDiameter>
-			<OutsideDiameter Unit="in">2.178</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1471,7 +1471,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T80, 0.125" thick, PN CR5080-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">1.000</InsideDiameter>
-			<OutsideDiameter Unit="in">2.178</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.556</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1555,7 +1555,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T52H to T70, 0.125" thick, PN CR52H70-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">1.215</InsideDiameter>
-			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1600,7 +1600,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, fiber, T55 to T70, 0.05" thick, PN CR5570-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">1.283</InsideDiameter>
-			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.05</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1609,7 +1609,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T55 to T70, 0.125" thick, PN CR5570-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">1.283</InsideDiameter>
-			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1636,7 +1636,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, fiber, T60 to T70, 0.05" thick, PN CR6070-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">1.637</InsideDiameter>
-			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.05</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1645,7 +1645,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T60 to T70, 0.125" thick, PN CR6070-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">1.637</InsideDiameter>
-			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<OutsideDiameter Unit="in">2.175</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
